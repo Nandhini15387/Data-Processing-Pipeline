@@ -8,6 +8,9 @@ import logging
 
 app = Flask(__name__)
 
+os.makedirs("logs", exist_ok=True)
+os.makedirs("output", exist_ok=True)
+
 logging.basicConfig(
     filename="logs/pipeline.log",
     level=logging.INFO,
