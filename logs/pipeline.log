@@ -1,0 +1,42 @@
+2026-10-30 14:24:45,242 - INFO - Pipeline started
+2026-10-30 14:24:45,242 - INFO - CSV file read successfully
+2026-10-30 14:24:45,243 - INFO - Data cleaning completed
+2026-10-30 14:24:45,243 - INFO - Data transformation completed
+2026-10-30 14:24:45,243 - INFO - Output file saved successfully
+2026-10-30 14:43:45,620 - INFO - WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
+2026-10-30 14:43:45,621 - INFO - Press CTRL+C to quit
+2026-10-30 14:43:45,622 - INFO -  * Restarting with stat
+2026-10-30 14:43:45,884 - WARNING -  * Debugger is active!
+2026-10-30 14:43:45,887 - INFO -  * Debugger PIN: 118-033-863
+2026-10-30 14:45:58,350 - INFO - WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
+2026-10-30 14:45:58,350 - INFO - Press CTRL+C to quit
+2026-10-30 14:45:58,351 - INFO -  * Restarting with stat
+2026-10-30 14:45:58,634 - WARNING -  * Debugger is active!
+2026-10-30 14:45:58,636 - INFO -  * Debugger PIN: 118-033-863
+2026-10-30 14:46:43,869 - INFO - 127.0.0.1 - - [30/Oct/2026 14:46:43] "GET /?utm_source=chatgpt.com HTTP/1.1" 200 -
+2026-10-30 14:46:43,890 - INFO - 127.0.0.1 - - [30/Oct/2026 14:46:43] "GET /api/data HTTP/1.1" 200 -
+2026-10-30 14:46:43,960 - INFO - 127.0.0.1 - - [30/Oct/2026 14:46:43] "GET /favicon.ico HTTP/1.1" 404 -
+2026-10-30 14:48:17,715 - INFO -  * Detected change in 'C:\\Users\\nandh\\OneDrive\\Desktop\\Data-Processing-Pipeline\\app.py', reloading
+2026-10-30 14:48:17,759 - INFO -  * Restarting with stat
+2026-10-30 14:48:18,070 - INFO -  * Detected change in 'C:\\Users\\nandh\\OneDrive\\Desktop\\Data-Processing-Pipeline\\app.py', reloading
+2026-10-30 14:48:18,778 - INFO -  * Restarting with stat
+2026-10-30 14:48:19,009 - WARNING -  * Debugger is active!
+2026-10-30 14:48:19,011 - INFO -  * Debugger PIN: 118-033-863
+2026-10-30 14:48:20,005 - WARNING -  * Debugger is active!
+2026-10-30 14:48:20,007 - INFO -  * Debugger PIN: 118-033-863
+2026-10-30 14:48:20,647 - INFO - 127.0.0.1 - - [30/Oct/2026 14:48:20] "GET / HTTP/1.1" 200 -
+2026-10-30 14:48:20,675 - INFO - 127.0.0.1 - - [30/Oct/2026 14:48:20] "GET /api/data HTTP/1.1" 200 -
+2026-10-30 14:48:21,574 - INFO - 127.0.0.1 - - [30/Oct/2026 14:48:21] "GET / HTTP/1.1" 304 -
+2026-10-30 14:48:21,610 - INFO - 127.0.0.1 - - [30/Oct/2026 14:48:21] "GET /api/data HTTP/1.1" 200 -
+2026-10-30 14:48:56,295 - INFO - WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
+2026-10-30 14:48:56,295 - INFO - Press CTRL+C to quit
+2026-10-30 14:48:57,848 - INFO - 127.0.0.1 - - [30/Oct/2026 14:48:57] "GET / HTTP/1.1" 304 -
+2026-10-30 14:48:57,886 - INFO - 127.0.0.1 - - [30/Oct/2026 14:48:57] "GET /api/data HTTP/1.1" 200 -
+2026-10-30 14:50:38,588 - INFO - WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
+2026-10-30 14:50:38,589 - INFO - Press CTRL+C to quit
+2026-10-30 14:50:40,654 - INFO - 127.0.0.1 - - [30/Oct/2026 14:50:40] "GET / HTTP/1.1" 304 -
+2026-10-30 14:50:40,699 - INFO - 127.0.0.1 - - [30/Oct/2026 14:50:40] "GET /api/data HTTP/1.1" 200 -

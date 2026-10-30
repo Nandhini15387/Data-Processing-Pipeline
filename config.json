@@ -1,0 +1,8 @@
+
+{
+    "input_file": "data/input.csv",
+    "output_file": "output/cleaned_data.csv",
+    "missing_age": "0",
+    "missing_salary": "0",
+    "missing_text": "Unknown"
+}
